@@ -7,8 +7,8 @@ from nltk.stem import PorterStemmer
 from PIL import Image
 
 # Download necessary NLTK data
-nltk.download('punkt')
-nltk.download('stopwords')
+# nltk.download('punkt')
+# nltk.download('stopwords')
 
 ps = PorterStemmer()
 
