@@ -1,3 +1,6 @@
-streamlit
-nltk
-sklearn
+streamlit>=1.44.0
+nltk>=3.9.1
+scikit-learn>=1.6.1
+pandas>=2.2.3
+numpy>=2.2.4
+pillow>=11.1.0
